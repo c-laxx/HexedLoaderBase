@@ -8,3 +8,6 @@ Then right click on assemblies and add a new project reference, go to browse and
 files from Dummy, plus CoreRuntime.dll and Il2CppInterop.Runtime.dll(from the Runtime folder)
 
 If you just build it, it should give you a tab, and an example button to start out with.
+
+I probably won't update this often, I have a life. If someone else wants to update it just make
+a fork.
