@@ -11,3 +11,5 @@ If you just build it, it should give you a tab, and an example button to start o
 
 I probably won't update this often, I have a life. If someone else wants to update it just make
 a fork.
+
+This base uses Umbras VRChat Internal Base in combination with Hacker1234s World Button API
